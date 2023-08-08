@@ -7,8 +7,8 @@ Passionate Fullstack Engineer with 5+ years of hands-on experience in developing
 * 🖥️  See my portfolio at [My Portofilio](https://www.mukhtasar.id)
 * ✉️  You can contact me at [mukhtasar03@gmail.com](mailto:mukhtasar03@gmail.com)
 * 🚀  I'm currently working on [Bappeda Pidie](http://bappeda.pidiekab.go.id)
-* 🧠  I'm learning Typescript
-* 🤝  I'm open to collaborating on Fullstack, Frontend, Backend Developer
+* 🧠  I'm learning Typescript and Golang
+* 🤝  I'm open to collaborating on Fullstack Developer, Frontend Developer, and Backend Developer
 
 <a href="https://www.github.com/mukhtasar93" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mukhtasar93?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
