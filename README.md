@@ -1,12 +1,10 @@
-![My Image](my-header-image.webp)
-
 Hi 👋 My name is MUKHTASAR
 ==========================
 Fullstack Developer
 -------------------
 Passionate Fullstack Engineer with 5+ years of hands-on experience in developing scalable websites/applications using a wide range of Frontend and Backend skills, such as PHP, JavaScript, NodeJS, ReactJS, and databases MySQL, PostgreSQL
 * 🌍  I'm based in Aceh, Indonesia
-* 🖥️  See my portfolio at [My Portofilio](http://www.mukhtasar.id)
+* 🖥️  See my portfolio at [My Portofilio](https://www.mukhtasar.id)
 * ✉️  You can contact me at [mukhtasar03@gmail.com](mailto:mukhtasar03@gmail.com)
 * 🚀  I'm currently working on [Bappeda Pidie](http://bappeda.pidiekab.go.id)
 * 🧠  I'm learning Typescript
@@ -40,3 +38,6 @@ src="https://img.shields.io/github/followers/mukhtasar93?logo=github&style=for-t
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mukhtasar93"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![My Image](my-header-image.webp)
+
